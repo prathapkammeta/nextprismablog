@@ -35,7 +35,7 @@ const AddBlog = () => {
     <Toaster />
     <div className="full m-auto flex my-4">
             <div className="flex flex-col justify-center m-auto">
-                <p className="text-3xl text-slate-200 font-bold p-3">Add Wonder Blog
+                <p className="text-3xl text-slate-200 font-bold p-3">Add Wonderfullll Blog
 
                 </p>
                 <form onSubmit={handleSubmit}>
